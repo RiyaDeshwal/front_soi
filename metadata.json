@@ -1,0 +1,5 @@
+{
+  "name": "DoubleTick Customer List",
+  "description": "A high-performance customer list UI designed to handle millions of records with infinite scroll, search, and sorting capabilities, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
